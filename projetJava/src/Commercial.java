@@ -7,4 +7,4 @@ public abstract class Commercial extends Employe {
     	 this.chiffre_affaire=chiffre_affaire;
      }
 }
-/*co*/
+
